@@ -34,7 +34,7 @@ matches_df = unique.matches[["anon_id", "name"]].rename(
     columns={"name": "matched_name"}
 )
 
-return matches_df
+    return matches_df
 
 
 def deanonymization_rate(matches_df, anon_df):
