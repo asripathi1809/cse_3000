@@ -30,7 +30,7 @@ def link_records(anon_df, aux_df):
     unique_ids = match_counts[match_counts == 1].index
     unique_matches = merged[merged["anon_id"].isin(unique_ids)]
 
-    matches_df = unique.matches[["anon_id", "name"]].rename(
+    matches_df = unique_matches[["anon_id", "name"]].rename(
         columns={"name": "matched_name"}
 )
 
