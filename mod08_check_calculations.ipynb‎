@@ -322,7 +322,7 @@
    "id": "d18f3dc6",
    "metadata": {},
    "source": [
-    "Type your answer here."
+    "The median CPU cores is a good threshold because it prioritizes high-energy jobs for renewable regions while keeping total runtime manageable."
    ]
   },
   {
@@ -338,7 +338,7 @@
    "id": "056d51e2",
    "metadata": {},
    "source": [
-    "Type your answer here."
+    "One important cost not considered here is the monetary cost of electricity, which may differ between regions and impact the overall operational cost."
    ]
   },
   {
@@ -354,7 +354,7 @@
    "id": "3edf9331",
    "metadata": {},
    "source": [
-    "Type your answer here."
+    "Data center operators are regulators would be affected because they focus on enviroment and runtime goals respectively."
    ]
   }
  ],
